@@ -2,4 +2,7 @@ este readme explica como ejecutar el ejercicio 10, sirve para los otros ejercici
 la carpeta src contiene el codigo de las funciones del ejercicio
 la carpeta notebooks tiene el archivo ipynb para ejecutarlo
 
-se debe tener instalado python y jupyter,abre el archivo que esta en notebooks y ejecuta las celdas
+se debe tener instalado python y jupyter
+clona el repositorio 
+accede a la carpeta del proyecto con el comando cd en la terminal y instala las dependencias necesarias con pip install
+abre jupyter y busca en la carpeta notebooks en ejercicio
